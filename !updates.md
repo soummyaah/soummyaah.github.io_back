@@ -1,12 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: page
-title: Latest Updates!
----
-
-<!-- ---
 # file: !updates.md
 title: Latest Updates
 menu: true
@@ -15,7 +7,7 @@ sitemap: false
 layout: page
 title:  Latest Updates!
 ---
- -->
+
 Nov 2019
 {:.faded}
 Travelling to EMNLP 2019, Hong Kong, China.
