@@ -1,14 +1,10 @@
 ---
-layout: about
+layout: page
 title: About
 permalink: /about/
 ---
 
-Hi!
-
-I am Soumya Sharma, currently working as a Research Assistant under [Dr. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/) and [Dr. Pawan Goyal](http://cse.iitkgp.ac.in/~pawang/) in IIT Kharagpur. I am a Indraprastha Institute of Information Technology, Delhi alum. We are working on some cool problems using Knowledge Graph in NLP domain. You can find more about my work till now from [linkedin](https://www.linkedin.com/in/soummyaah/). 
-
-<!-- [jekyllrb.com](https://jekyllrb.com/)
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
@@ -20,4 +16,3 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
- -->
